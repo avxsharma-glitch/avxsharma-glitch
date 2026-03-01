@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aryan Vishwakarma](your-photo.jpg) <!-- Upload your photo here -->
+![Aryan Vishwakarma](aaryan.photo.jpeg) <!-- Upload your photo here -->
 
 # Hi, I'm Aryan Vishwakarma 👋
 
