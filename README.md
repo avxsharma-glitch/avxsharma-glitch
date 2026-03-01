@@ -23,7 +23,7 @@
 |--------|-------------|-------|
 | B.S. Data Science & GenAI | IIT Jodhpur | 2025–2029 |
 | B.Tech Mechanical Eng | Rajkiya Eng College, Azamgarh | 2025–2029 |
-| CBSE XII & X | Sant Atulanand Convent School | - |
+| CBSE XII & X | Sant Atulanand Convent School | 2023 & 2025 |
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
