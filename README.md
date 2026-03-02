@@ -14,8 +14,6 @@
 **AI/ML Engineer | Mechanical Eng + Data Science & GenAI | AWS Certified**
 
 - 🏆 **AI Hackmatrix Winner** (Chandigarh Univ) – Mental Health AI Companion
-- 🔮 **Generative AI** Chatbots (100+ weekly users, 3× productivity boost)
-- 📈 **ML Predictive Systems** (85%+ accuracy, TensorFlow + IoT)
 - ☁️ **AWS Certified** (DynamoDB, GenAI, Cloud Practitioner)
 
 ### 🎓 Education
