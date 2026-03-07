@@ -23,7 +23,7 @@
   <table>
     <tr>
       <td>🎓 <strong>B.Tech Mechanical Engg</strong> @ REC Azamgarh (AKTU)</td>
-      <td>🤖 <strong>Certification in Applied AI</strong> @ IIT Jodhpur</td>
+      <td>🤖 <strong>BS in Data Science and  Applied AI</strong> @ IIT Jodhpur</td>
     </tr>
     <tr>
       <td>📍 Varanasi, India</td>
