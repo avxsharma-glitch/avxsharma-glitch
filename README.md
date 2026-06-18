@@ -17,21 +17,31 @@
 
 <div align="center">
   <h3><i>“Building intelligent systems that matter, one line of code at a time.”</i></h3>
-  <p>🚀 AI/ML Enthusiast | 🏆 AI Hackmatrix Champion | ☁️ AWS Certified</p>
+  <p>
+Full Stack Developer |
+Machine Learning & Generative AI |
+Competitive Programmer
+</p>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🎓 <strong>B.Tech Mechanical Engg</strong> @ REC Azamgarh (AKTU)</td>
-      <td>🤖 <strong>BS in Data Science and  Applied AI</strong> @ IIT Jodhpur</td>
-    </tr>
-    <tr>
-      <td>📍 Varanasi, India</td>
-      <td>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!</td>
-    </tr>
-  </table>
-</div>
+# 🌌 About Me
+
+<img align="right" width="430" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+
+```yaml
+Name: Aryan Vishwakarma
+Role: Full Stack Developer
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Data Science
+Learning:
+  - DSA & Competitive Programming
+  - MERN Stack
+  - Machine Learning & Generative AI
+Passion:
+  Designing scalable software
+```
 
 ---
 
