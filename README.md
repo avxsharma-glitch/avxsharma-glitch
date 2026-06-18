@@ -7,19 +7,9 @@
   <a href="https://github.com/avxsharma-glitch"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:its.aryanvishwakarma.07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:b25bs1436@iitj.ac.in"><img src="https://img.shields.io/badge/IITJ%20Mail-FF5722?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- 
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/avxsharma-glitch?theme=dark&font=Karma&ext=contest" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/avxsharma-glitch/">
+  <br>  <a href="https://leetcode.com/u/avxsharma-glitch/">
     <img src="https://img.shields.io/badge/LeetCode-avxsharma--glitch-orange?style=for-the-badge&logo=leetcode" />
   </a>
-</p>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=avxsharma-glitch&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </div>
 
@@ -158,6 +148,19 @@ timeline
 </div>
 
 ---
+ 
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/avxsharma-glitch?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/avxsharma-glitch/">
+    <img src="https://img.shields.io/badge/LeetCode-avxsharma--glitch-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
 
 ## 🌱 Current Focus
 
