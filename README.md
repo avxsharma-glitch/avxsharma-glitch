@@ -53,7 +53,7 @@ timeline
     2023 : Higher Secondary (CBSE) - Sant Atulanand Convent School
     2025 : Senior Secondary (CBSE) - Sant Atulanand Convent School
     2025 : B.Tech Mechanical Engineering - Rajkiya Engineering College Azamgarh
-    2025 : Certification in Applied AI & Data Science - IIT Jodhpur 
+    2025 : BS in Applied AI & Data Science - IIT Jodhpur 
     2029 : Expected Graduation
 ```
 
