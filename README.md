@@ -72,18 +72,34 @@ timeline
 
 ## 🏆 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/avxsharma-glitch/mansik-santulan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avxsharma-glitch&repo=mansik-santulan&theme=radical&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/avxsharma-glitch/neuralhub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avxsharma-glitch&repo=neuralhub&theme=radical&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/avxsharma-glitch/streamflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avxsharma-glitch&repo=streamflow&theme=radical&hide_border=true&show_owner=true" />
-  </a>
-</div>
 
+<p align="center">
+
+<a href="https://github.com/avxsharma-glitch/Manshik-Santulan">
+  <img width="400"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=avxsharma-glitch&repo=Manshik-Santulan&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/avxsharma-glitch/Neural-Hub">
+  <img width="400"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=avxsharma-glitch&repo=Neural-Hub&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/avxsharma-glitch/structured-python">
+  <img width="400"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=avxsharma-glitch&repo=structured-python&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/avxsharma-glitch/Web-dev">
+  <img width="400"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=avxsharma-glitch&repo=Web-dev&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 ### 📌 Project Highlights
 
 <details>
