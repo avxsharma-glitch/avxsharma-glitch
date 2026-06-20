@@ -30,7 +30,7 @@ Competitive Programmer
 
 ```yaml
 Name: Aryan Vishwakarma
-Role: Full Stack Developer
+Role: AI-ML Engineer
 Focus:
   - Artificial Intelligence
   - Full Stack Development
