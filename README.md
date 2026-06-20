@@ -100,6 +100,7 @@ timeline
 </a>
 
 </p>
+
 ### 📌 Project Highlights
 
 <details>
