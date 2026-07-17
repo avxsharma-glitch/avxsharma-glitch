@@ -146,22 +146,6 @@ timeline
 | **AI Hackmatrix** @ Chandigarh University | Mansik Santulan – AI Mental Health Companion | 🥇 1st Place Winner |
 | *More hackathons coming soon!* | | |
 
----
-
-## 📜 Certifications & Achievements
-
-| Badge | Description | Issuer |
-| :---: | :--- | :--- |
-| 🏆 | Hackathon Winner – Mansik Santulan | AI Hackmatrix |
-| ☁️ | AWS Generative AI Foundations | Amazon Web Services |
-| 🐍 | Python Essentials | Cisco Networking Academy |
-| 📊 | Data Analytics Job Simulation | Deloitte |
-| 📈 | Power BI Data Analytics Simulation | Tata Group |
-| 🧠 | AWS Solutions Architecture Simulation | Amazon Web Services |
-| 🏦 | Introduction to Data Science Simulation | Commonwealth Bank |
-| 🎓 | GitHub Student Developer Pack Recipient | GitHub |
-
----
 
 ## 📊 GitHub Analytics
 
@@ -187,23 +171,6 @@ timeline
     <img src="https://img.shields.io/badge/LeetCode-avxsharma--glitch-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
-
-
-## 🌱 Current Focus
-
-* 🔭 Building end‑to‑end ML projects with deployment on cloud.
-* 🌱 Deep diving into **Generative AI** & **Advanced NLP**.
-* 📘 Taking **AWS Cloud Practitioner** certification (in progress).
-* 👯 Open to collaborate on **AI/ML open‑source** projects.
-* 💬 Ask me about **Python, hackathons, or data science**.
-
----
-
-## 🎯 Interests & Hobbies
-
-🤖 Artificial Intelligence · 🏭 Machine Learning · 🌐 Full Stack Development · 📊 Data Science · 🚀 Tech Startups · 🧩 Hackathons · ♟️ Chess · ✈️ Travel · 🎮 Strategic Gaming
-
----
 
 ## 📬 Let's Connect!
 
