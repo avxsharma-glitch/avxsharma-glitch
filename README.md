@@ -76,7 +76,13 @@
 
 <hr/>
 
-
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/avxsharma-glitch/avxsharma-glitch/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</div>
 
 
 
