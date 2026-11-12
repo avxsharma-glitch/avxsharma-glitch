@@ -30,6 +30,11 @@
 
 <hr/>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=8B8BFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Developer;Python+%7C+Machine+Learning+%7C+Full+Stack;Building+ideas+into+useful+products" alt="Typing introduction" />
+
+</div>
 
 <!-- TECH STACK -->
 
@@ -84,10 +89,71 @@
   />
 </div>
 
+<hr/>
 
+<!-- FEATURED PROJECTS -->
 
+<h2>03. Featured Builds</h2>
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/avxsharma-glitch/DSA-HUB">DSA-HUB</a></h3>
+<p>Track DSA submissions and explore coding progress through an analytics dashboard.</p>
+<p><img src="https://img.shields.io/badge/Focus-DSA%20Analytics-6366f1?style=flat-square" /> <img src="https://img.shields.io/badge/Type-Developer%20Tool-111111?style=flat-square" /></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/avxsharma-glitch/INIT-NETWORK">INIT — The Builder Network</a></h3>
+<p>A builder community concept focused on teams, projects, labs, and shipping products.</p>
+<p><img src="https://img.shields.io/badge/Focus-Community-6366f1?style=flat-square" /> <img src="https://img.shields.io/badge/Type-Full%20Stack-111111?style=flat-square" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/avxsharma-glitch/AI-assistant---Python">Python AI Assistant</a></h3>
+<p>Python-based assistant project exploring AI-powered workflows.</p>
+<p><img src="https://img.shields.io/badge/Focus-AI-6366f1?style=flat-square" /> <img src="https://img.shields.io/badge/Language-Python-111111?style=flat-square" /></p>
+</td>
+<td width="50%" valign="top">
+<h3>More experiments</h3>
+<p>Browse repositories for ongoing experiments, coursework, and open-source contributions.</p>
+<p><a href="https://github.com/avxsharma-glitch?tab=repositories">Explore all repositories →</a></p>
+</td>
+</tr>
+</table>
+</div>
 
+<hr/>
+
+<!-- GITHUB ANALYTICS -->
+
+<h2>04. GitHub Analytics</h2>
+
+<div align="center">
+
+<a href="https://github.com/avxsharma-glitch">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=avxsharma-glitch&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8B8BFF&text_color=C9D1D9&icon_color=8B8BFF" alt="GitHub overview statistics" />
+</a>
+<a href="https://github.com/avxsharma-glitch">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avxsharma-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B8BFF&text_color=C9D1D9" alt="Most used languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/avxsharma-glitch">
+<img width="75%" src="https://streak-stats.demolab.com?user=avxsharma-glitch&hide_border=true&background=0D1117&ring=8B8BFF&fire=8B8BFF&currStreakLabel=8B8BFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/avxsharma-glitch">
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avxsharma-glitch&theme=github_dark" alt="GitHub activity summary" />
+</a>
+
+</div>
+
+<hr/>
 
 <!-- CODING PROFILE ANALYTICS -->
 
@@ -124,6 +190,35 @@
 </div>
 
 <p><sub>Note: Live stats are provided by third-party card services; availability depends on those services and the profile handles.</sub></p>
+
+<hr/>
+
+<!-- ACHIEVEMENTS & JOURNEY -->
+
+<h2>09. Achievements &amp; Journey</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏆 AI HackMatrix</h3>
+<p><b>First Place</b> — InnovFest AI, Chandigarh University.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Learning Across Domains</h3>
+<p>B.Tech Mechanical Engineering at REC Azamgarh alongside BS Data Science &amp; Applied AI at IIT Jodhpur.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>☁️ AWS Student Builder Group</h3>
+<p>Contributing to tech team and social media activities with AWS SBG IIT Jodhpur.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🛠️ Community &amp; Open Source</h3>
+<p>Building initiatives, participating in hackathons, and learning through collaborative projects.</p>
+</td>
+</tr>
+</table>
 
 <hr/>
 
