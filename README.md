@@ -119,7 +119,6 @@
 <br/><br/>
 
 <a href="https://leetcode.com/u/avxsharma-glitch/"><img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://codeforces.com/profile/avxsharma-codeforces"><img src="https://img.shields.io/badge/Codeforces-View_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://www.geeksforgeeks.org/user/avx/"><img src="https://img.shields.io/badge/GFG-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
