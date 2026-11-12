@@ -89,23 +89,48 @@
 
 
 
-<!-- LEETCODE -->
+<!-- CODING PROFILE ANALYTICS -->
 
-<h2>08. LeetCode Statistics</h2>
+<h2>08. Coding Profile Analytics</h2>
+
+<p><i>A clickable, cross-platform DSA dashboard. Select a platform card to open the corresponding profile.</i></p>
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 <a href="https://leetcode.com/u/avxsharma-glitch/">
-<img src="https://leetcard.jacoblin.cool/avxsharma-glitch?theme=dark&font=Karma&ext=contest" width="75%" />
+<img src="https://leetcard.jacoblin.cool/avxsharma-glitch?theme=dark&font=Karma&ext=contest" width="100%" alt="LeetCode statistics card" />
 </a>
+<br/>
+<b>LeetCode</b> · Problems, contest rating & badges
+</td>
+<td align="center" width="50%">
+<a href="https://codeforces.com/profile/avxsharma-codeforces">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=avxsharma-codeforces" width="100%" alt="Codeforces rating and statistics card" />
+</a>
+<br/>
+<b>Codeforces</b> · Rating & contest stats
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://www.geeksforgeeks.org/user/avx/"><img src="https://img.shields.io/badge/GeeksforGeeks-Open_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/avx_codechef"><img src="https://img.shields.io/badge/CodeChef-Open_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/its_aryanvishwal"><img src="https://img.shields.io/badge/HackerRank-Open_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/avxsharma-glitch/">
-<img src="https://img.shields.io/badge/Visit_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<a href="https://leetcode.com/u/avxsharma-glitch/"><img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/avxsharma-codeforces"><img src="https://img.shields.io/badge/Codeforces-View_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/avx/"><img src="https://img.shields.io/badge/GFG-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
+
+<p><sub>Note: Live stats are provided by third-party card services; availability depends on those services and the profile handles.</sub></p>
 
 <hr/>
 
