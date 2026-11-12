@@ -1,166 +1,84 @@
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:312e81,100:6366f1&height=220&section=header&text=Aryan%20Vishwakarma&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:202020&height=180&section=header&text=AVX&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SHIP&descAlignY=62&descSize=14" width="100%" />
 
-  <br/>
+### Aryan Vishwakarma · AI & Data Science Developer
 
-  <a href="https://linkedin.com/in/aryan-vishwakarma-00434937a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/avxsharma-glitch">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:its.aryanvishwakarma.07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/avxsharma-glitch/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+*Building practical AI systems, useful tools, and products that solve real problems.*
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=avxsharma-glitch&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" />
-
-  <h3>Building. Experimenting. Learning. Shipping.</h3>
-
-  <p><i>Building intelligent systems and turning ideas into real-world products.</i></p>
+[![GitHub](https://img.shields.io/badge/GitHub-avxsharma--glitch-111111?style=flat-square&logo=github)](https://github.com/avxsharma-glitch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin)](https://linkedin.com/in/aryan-vishwakarma-00434937a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-111111?style=flat-square&logo=leetcode)](https://leetcode.com/u/avxsharma-glitch/)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail)](mailto:its.aryanvishwakarma.07@gmail.com)
 
 </div>
 
-<hr/>
+---
 
+## `whoami`
 
-<!-- TECH STACK -->
+- 🎓 B.Tech Mechanical Engineering — REC Azamgarh
+- 🎓 BS Data Science & Applied AI — IIT Jodhpur
+- 🤖 Interested in AI/ML, Generative AI, automation, and full-stack development
+- 🏆 First Place — AI HackMatrix, InnovFest AI (Chandigarh University)
+- 🌱 Currently strengthening DSA and building AI-powered applications
 
-<h2>02. Technical Arsenal</h2>
+## Featured Projects
 
-<h3>Programming Languages</h3>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [DSA-HUB](https://github.com/avxsharma-glitch/DSA-HUB) | DSA submission tracking and analytics dashboard | TypeScript · Web |
+| [INIT-NETWORK](https://github.com/avxsharma-glitch/INIT-NETWORK) | Builder community platform | Web · Full Stack |
+| [AI Assistant](https://github.com/avxsharma-glitch/AI-assistant---Python) | Python-based AI assistant project | Python · AI |
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
-</p>
+[Explore all repositories →](https://github.com/avxsharma-glitch?tab=repositories)
 
-<h3>AI, Machine Learning &amp; Data Science</h3>
+## Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge" />
-</p>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript) ![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql)
 
-<h3>Web Development</h3>
+**AI / Data Science**  
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative_AI-111111?style=flat-square)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind" />
-</p>
+**Development & Tools**  
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs) ![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask) ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb) ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git) ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux) ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
 
-<h3>Databases &amp; Developer Tools</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux,postman,docker" />
-</p>
-
-<h3>Data Analytics &amp; Engineering</h3>
-
-<p>
-<img src="https://img.shields.io/badge/KNIME-FEDB00?style=for-the-badge&logo=knime&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/WEKA-2C3E50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-</p>
-
-<hr/>
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/avxsharma-glitch/avxsharma-glitch/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
-</div>
-
-
-
-
-
-
-<!-- LEETCODE -->
-
-<h2>08. LeetCode Statistics</h2>
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://leetcode.com/u/avxsharma-glitch/">
-<img src="https://leetcard.jacoblin.cool/avxsharma-glitch?theme=dark&font=Karma&ext=contest" width="75%" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=avxsharma-glitch&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=b3b3b3&icon_color=7CFC00&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avxsharma-glitch&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=b3b3b3" alt="Top languages" />
 
-<br/><br/>
-
-<a href="https://leetcode.com/u/avxsharma-glitch/">
-<img src="https://img.shields.io/badge/Visit_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<img src="https://streak-stats.demolab.com?user=avxsharma-glitch&hide_border=true&background=050505&ring=7CFC00&fire=7CFC00&currStreakLabel=ffffff&sideLabels=b3b3b3&dates=888888" height="165" alt="GitHub streak" />
 
 </div>
 
-<hr/>
-
-<!-- CURRENT GOALS -->
-
-<h2>09. What's Next?</h2>
-
-<ul>
-<li>Strengthening Data Structures &amp; Algorithms.</li>
-<li>Building practical AI and Machine Learning applications.</li>
-<li>Exploring Generative AI and intelligent agents.</li>
-<li>Contributing to open-source projects.</li>
-<li>Developing products that solve real-world problems.</li>
-</ul>
-
-<p>
-<b>Open to:</b> Internships · Collaborations · Hackathons · Open Source
-</p>
-
-<hr/>
-
-<!-- CONTACT -->
-
-<h2>10. Let's Connect</h2>
+## LeetCode
 
 <div align="center">
 
-<p>Interested in technology, AI, open source, or building something together?</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/avxsharma-glitch?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/avxsharma-glitch/)
 
-<a href="https://linkedin.com/in/aryan-vishwakarma-00434937a">
-<img src="https://img.shields.io/badge/LinkedIn-Aryan_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</div>
 
-<a href="https://github.com/avxsharma-glitch">
-<img src="https://img.shields.io/badge/GitHub-AVX-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## Current Focus
 
-<a href="mailto:its.aryanvishwakarma.07@gmail.com">
-<img src="https://img.shields.io/badge/Personal_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+- Practicing Data Structures & Algorithms consistently
+- Developing applied AI/ML and agentic projects
+- Contributing to open source and collaborating on builds
 
-<a href="mailto:b25bs1436@iitj.ac.in">
-<img src="https://img.shields.io/badge/IITJ_Email-Contact-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+## Connect
 
-<br/><br/>
+- **LinkedIn:** [Aryan Vishwakarma](https://linkedin.com/in/aryan-vishwakarma-00434937a)
+- **Email:** [its.aryanvishwakarma.07@gmail.com](mailto:its.aryanvishwakarma.07@gmail.com)
+- **LeetCode:** [avxsharma-glitch](https://leetcode.com/u/avxsharma-glitch/)
 
-<h3>Building the future, one commit at a time.</h3>
+<div align="center">
 
-<p>
-<i>"Ideas are easy. Building, testing, and shipping them is the real work."</i>
-</p>
+<img src="https://raw.githubusercontent.com/avxsharma-glitch/avxsharma-glitch/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:312e81,100:6366f1&height=120&section=footer" width="100%" />
+<sub>Build with intent. Learn in public. Ship consistently.</sub>
 
 </div>
