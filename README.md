@@ -106,13 +106,7 @@
 <br/>
 <b>LeetCode</b> · Problems, contest rating & badges
 </td>
-<td align="center" width="50%">
-<a href="https://codeforces.com/profile/avxsharma-codeforces">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=avxsharma-codeforces" width="100%" alt="Codeforces rating and statistics card" />
-</a>
-<br/>
-<b>Codeforces</b> · Rating & contest stats
-</td>
+
 </tr>
 </table>
 
